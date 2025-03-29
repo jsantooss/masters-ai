@@ -1,0 +1,20 @@
+Memcached Bench Marking Results
+
+Dataset Size: 10000 items (1x)
+Insert Time: 1.32 seconds
+Read Time: 6.51 seconds
+Update Time: 1.09 seconds
+Delete Time: 1.06 seconds
+
+
+Dataset Size: 100 000 items (10x)
+Insert Time: 10.74 seconds
+Read Time: 67.67 seconds
+Update Time: 11.62 seconds
+Delete Time: 10.47 seconds
+
+Dataset Size: 1000000 items
+Insert Time: 115.01 seconds
+Read Time: 617.30 seconds
+Update Time: 106.34 seconds
+Delete Time: 108.47 seconds
